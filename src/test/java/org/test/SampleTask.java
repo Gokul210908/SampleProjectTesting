@@ -5,7 +5,10 @@ public class SampleTask {
 	static int b=20;
 	
 	int c=30;
-	
+	private void stud() {
+	System.out.println("Test");
+
+	}
 	public static void main(String[] args) {
 		
 		int a = 10;
