@@ -5,6 +5,10 @@ public class SampleTask {
 	static int b=20;
 	
 	int c=30;
+
+private void empid() {
+	System.out.println("Gokul");
+}
 	private void stud() {
 	System.out.println("Test");
 
