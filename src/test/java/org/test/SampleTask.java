@@ -6,6 +6,10 @@ public class SampleTask {
 	
 	int c=30;
 	
+	private void empid() {
+		System.out.println("Gokul");
+
+	}
 	public static void main(String[] args) {
 		
 		int a = 10;
